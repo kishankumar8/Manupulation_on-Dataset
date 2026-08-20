@@ -100,6 +100,6 @@ The raw hotel data was successfully transformed into a **clean and structured CS
 
 ## 👨‍💻 Author
 
-**Kishan K
+**Ki
 
 This project helped me practice **Pandas, data cleaning, data manipulation, and feature engineering** using real-world data.
