@@ -98,7 +98,6 @@ The final dataset contains important features such as:
 
 The raw hotel data was successfully transformed into a **clean and structured CSV dataset**, which can be used for further **EDA, visualization, and machine learning projects**.
 
-## 👨‍💻
 
 
 This project helped me practice **Pandas, data cleaning, data manipulation, and feature engineering** using real-world data.
