@@ -2,7 +2,7 @@
 
 In this repository i upload my manupulation work on dataset using pandas  #pd .
 
-->This repository have two more files of csv but i dont uploaad because of the size of the cssv files are too large .
+-> This repository have two more files of csv but i dont uploaad because of the size of the cssv files are too large .
 
  ->thats why i give the screenshots of all the fils in this repository .
 #  uses of this repo
