@@ -2,6 +2,8 @@
 
 In this repository i upload my manupulation work on dataset using pandas  #pd .
 
+This repository have two more files of csv but i dont uploaad because of the size of the cssv files are too large .
+
 #  uses of this repo
 
 # Hotel Dataset Manipulation & Feature Engineering
